@@ -35,8 +35,8 @@
 <a href="https://dbeaver.io/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/DBeaver.png" alt="DBeaver" width="50" height="50" />
 </a>
-<a href="https://www.adobe.com/products/premiere.html">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Premiere Pro" width="50" height="50" />
+<a href="https://www.adobe.com/products/premiere.html" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Adobe_Premiere_Pro_CC_icon.svg" alt="Premiere Pro" width="50" height="50" />
 </a>
 
 
