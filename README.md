@@ -15,10 +15,10 @@ Qa engineer
 * ✉️  Как связаться со мной: 
 * <p align="left">
   <a href="https://t.me/sfz2120" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="40" style="filter: invert(0.5);">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_logo.svg" alt="telegram" height="40" style="background-color: #0088cc; border-radius: 5px; padding: 5px;">
   </a>
   <a href="mailto:sfz2120@mail.ru" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="mail-dot-ru" height="40" style="filter: invert(0.5);">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Mail.ru_logo.svg" alt="mail-dot-ru" height="40" style="background-color: #0072ff; border-radius: 5px; padding: 5px;">
   </a>
 </p>
 
