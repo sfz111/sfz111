@@ -18,8 +18,9 @@
 
 ## Портфолио 
 - Тестовая документация
-  -  [Чек-листы](https://docs.google.com/spreadsheets/d/1xra4X11w977n8kPnG4mVPz5oWEjOd4rPLIN17ERKOTo/edit?gid=0#gid=0)
-  -  [Тест-кейсы](https://ссылочку_сюда)
+  -  [Чек-листы](https://docs.google.com/spreadsheets/d/1Cc7Vms2flGJJ1lf3UuBQOHO-tRtatYa6P5lSseY1TIw/edit?usp=sharing)
+  -  [Тест-кейсы](https://docs.google.com/spreadsheets/d/1cX3ahUfgEwQK91Cbzqj-3jFA6uhilcTJjltO0Z-57j0/edit?usp=sharing)
+  -  [Тестовый набор](https://docs.google.com/spreadsheets/d/1SHiW_Jv8c3c7GaBJnrumtmEcFImYAig9Es1QoWzoVzo/edit?usp=sharinghttps://docs.google.com/spreadsheets/d/1SHiW_Jv8c3c7GaBJnrumtmEcFImYAig9Es1QoWzoVzo/edit?usp=sharing)
   -  [Mind maps](https://ссылочку_сюда)
   -  [Баг-репорты](https://ссылочку_сюда)
 - Коллекция в Postman 
