@@ -13,7 +13,7 @@ Qa engineer
 * 🌍  I'm based in Russia - Perm
 * 🖥️  See my portfolio at [Test](http://Х)
 * ✉️  Как связаться со мной: [![Telegram](https://img.shields.io/badge/Telegram-0077C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sfz2120) 
-[![Mail](https://img.shields.io/badge/Mail-0077C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sfz2120@mail.ru)
+[![Mail](https://img.shields.io/badge/Mail.ru-FF7F00?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:sfz2120@mail.ru)
 
 
 ### Skills
