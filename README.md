@@ -1,6 +1,8 @@
 Привет, [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Александр!
 =================================================================================================================================
 
+![Описание GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJ2ZzZtbDZiemdmN3VrNjZhMWlvdTNjcXdlc3YwdHg2aWdmZGw2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R06WPHU4ae0H4LC/giphy.webp)
+
 Qa engineer
 -----------
 
