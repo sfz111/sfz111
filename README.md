@@ -65,4 +65,4 @@
 
 ## Мои контакты
 [![Telegram](https://img.shields.io/badge/Telegram-0077C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sfz2120) 
-[Напишите мне на почту](mailto:sfz2120@mail.ru)
+[![Email](https://img.shields.io/badge/Email-sfz2120@mail.ru-blue)](mailto:sfz2120@mail.ru)
